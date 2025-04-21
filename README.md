@@ -108,7 +108,7 @@ Welcome to the **MatDash Free Bootstrap Admin** documentation! Whether you're ju
 The Pro Version of the **MatDash Bootstrap 5 Admin Dashboard** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://bootstrapdemos.adminmart.com/matdash/dist/main/index.html" target="_blank">
+  <a href="https://bootstrapdemos.adminmart.com/matdash/dist/main/index.html?ref=56" target="_blank">
     <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
   </a>
   <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=56" target="_blank">
@@ -129,7 +129,7 @@ The **Free Version** of the **MatDash Bootstrap 5 Admin Dashboard** provides a s
 
 | **Feature**                      | **Free Version**                       | **Pro Version**                                      |
 |-----------------------------------|----------------------------------------|-----------------------------------------------------|
-| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html?ref=56)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/matdash/dist/main/index.html)                                              |
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html?ref=56)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.adminmart.com/matdash/dist/main/index.html?ref=56)                                              |
 | **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://adminmart.com/product/matdash-free-tailwind-react-dashboard/?ref=56)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://adminmart.com/product/matdash-tailwind-react-admin-template/#product-demo-section?ref=56)                                          |
 | **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
 | **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
