@@ -88,7 +88,7 @@ npm install
 Once the dependencies are installed, you can start a local development server to preview the template: 
 
 ```bash
-npm run dev
+gulp
 ```
 
 ---
